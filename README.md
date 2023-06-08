@@ -2,19 +2,19 @@
 ## Regex Tutorial
 This tutorial provides a comprehensive introduction to regular expressions (regex) and explains their various components. Whether you're a beginner or an experienced developer, this tutorial will guide you through the world of regex and help you master this powerful tool for pattern matching and text manipulation.
 
-# Table of Contents
-Introduction
-Summary
-Components
-Anchors
-Character Classes
-Quantifiers
-Grouping and Capturing
-Alternation
-Backreferences
-Modifiers
-Metacharacters
-About the Author
+## Table of Contents
+* [Introduction](#introduction)
+* [Summary](#summary)
+* [Components](#components)
+  * [Anchors](#anchors)
+  * [Character Classes](#character-classes)
+  * [Quantifiers](#quantifiers)
+  * [Grouping and Capturing](#grouping-and-capturing)
+  * [Alternation](#alternation)
+  * [Backreferences](#backreferences)
+  * [Modifiers](#modifiers)
+  * [Metacharacters](#metacharacters)
+* [About the Author](#about-the-author)
 
 ## Introduction
 Welcome to the Regex Tutorial! In this tutorial, we will delve into the fascinating world of regular expressions. Regular expressions are a sequence of characters that define a search pattern. They are widely used in text processing, data validation, and programming languages. This tutorial aims to provide you with a solid foundation in regex and equip you with the skills to leverage its power.
